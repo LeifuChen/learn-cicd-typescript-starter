@@ -1,4 +1,4 @@
-![CI](https://github.com/leifu/learn-cicd-typescript-starter/actions/workflows/ci.yml/badge.svg?branch=main)
+![CI](https://github.com/LeifuChen/learn-cicd-typescript-starter/actions/workflows/ci.yml/badge.svg)
 
 # learn-cicd-typescript-starter (Notely)
 
